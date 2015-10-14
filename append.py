@@ -1,4 +1,4 @@
-#!/usr/bin/env python 
+#!/usr/bin/env python3.5 
 
 input_list=[1, 2, 3, 4, 5]
 result_list = [] 
